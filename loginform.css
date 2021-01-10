@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding:0;
+    background:url(fog-1535201_1920.jpg);width: device-width;height: 900px;;
+    
+    
+}
+.box{
+    width: 400px;
+    background: rgba(0,0,0,0.5);
+    padding: 50px;
+    margin: auto;
+    margin-top: 120px;
+    border-radius: 4px;
+    box-shadow: 0px 0px 50px -7px;
+    
+}
+.box input{
+    width: 89%;
+    padding: 20px;
+    border: none;
+    display: block;
+    background: #ddd;
+    margin-bottom: 30px;
+    border-radius: 4px;
+}
+.login{
+    background:cadetblue!important;
+    width: 100%!important;
+    font-size: 20px;
+}
+.rt4{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.rt4 a{
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: black;
+}
+.hedline{
+    text-align: center;
+}
+.hedline h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+ 
