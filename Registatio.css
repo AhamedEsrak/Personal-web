@@ -1,0 +1,48 @@
+body{
+    margin: 0;padding: 0;
+   background:url(regback.jpg)
+    
+}
+  .box{
+   width: 400px;
+   height:700px;
+   background: rgba(0, 0, 0, 0.5);
+   padding:50px;
+   margin:auto;
+   margin-top:120px;
+   border-radius: 4px;
+   box-shadow:0px 0px 50px -7px;
+   }
+     .box input{
+    width: 89%;
+    padding: 20px;
+    border: none;
+    display: block;
+    margin-bottom:30px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 4px;
+    font-size: 20px;
+    }
+.country select {
+    padding: 20px;
+    width: 100%;
+    border: none;
+    border-radius:4px;
+    display: block;
+    font-size: 20px;
+    background:rgba(0, 0, 0, 0.5);
+    color:rgb(153, 153, 153);
+
+}
+.country{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #ddd;
+}
+.hedline{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+}
+
+}
